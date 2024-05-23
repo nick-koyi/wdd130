@@ -78,10 +78,7 @@ header,footer, .grid {
   margin: 0 auto;
 }
 
-.grid {
-  display: grid;
-  align-items: center;
-}
+
 nav {
   background-color: steelblue;
   padding: 1rem;
